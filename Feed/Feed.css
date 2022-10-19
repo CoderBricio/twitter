@@ -1,0 +1,469 @@
+.BodyAppJs{
+    background-color: black;
+}
+  
+.PaginaInicial{
+    font-size: 19px;
+    margin-left: 20px;
+}
+  
+.IconeStar{
+    font-size: 20px;
+    margin-top: 17px;
+    margin-left: 70%;
+    cursor: pointer;
+}
+  
+.ContainerPost{
+    background-color: black;
+    color: white;
+    margin-top: 0px;
+    margin-left: 297px;
+    display: flex;
+    position: relative;
+    width: 598px ;
+    height: 200px;
+    border-color: gray;
+    border-width: 0.5px;
+    border-top: 0;
+    border-style: solid;
+}
+  
+.ImgPerfilHome{
+    border-radius: 70px;
+    width: 50px;
+    height: 50px;
+    margin-left:20px;
+    margin-top: 30px;
+    display: flex;
+    position: absolute;
+}
+  
+.InputPost{
+    background-color: black;
+    width:300px;
+    color: white;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 25px;
+    height: 60px;
+    border: 0;  
+}
+  
+.BotãoTwt{
+    background-color: rgb(29, 155, 240);
+    border-radius: 20px;
+    width: 90px;
+    height: 40px;
+    margin-left: 80%;
+    position: absolute;
+    margin-top: 70px;
+    cursor: pointer;
+    color: white;
+    font-size: 15px;
+    
+}
+  
+.IconImg{
+    position: absolute;
+    color: rgb(29, 155, 240);
+    font-size: 20px;
+    margin-top: 110px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+  
+.IconGif{
+    color: rgb(29, 155, 240);
+    font-size: 20px;
+    margin-top: 110px;
+    margin-left: 140px;
+    position: absolute;
+    cursor: pointer;
+}
+  
+.IconEnquete {
+    color: rgb(29, 155, 240);
+    font-size: 20px;
+    margin-top: 110px;
+    margin-left: 170px ;
+    position: absolute;
+    cursor: pointer;
+}
+  
+.IconEmoji{
+    color: rgb(29, 155, 240);
+    font-size: 20px;
+    margin-top: 110px;
+    margin-left: 200px;
+    position: absolute;
+    cursor: pointer;
+}
+  
+.IconCalendario {
+    color: rgb(29, 155, 240);
+    font-size: 20px;
+    margin-top: 110px;
+    margin-left: 230px;
+    position: absolute;
+    cursor: pointer;
+}
+  
+.IconLocal{
+    color: rgb(29, 155, 240);
+    font-size: 20px;
+    margin:110px;
+    margin-left:260px ;
+    position: absolute;
+    cursor: pointer;
+}
+  
+.ContainerPostagemum {
+    color: white;
+    background-color: black;
+    margin-left: 297px;
+    display: flex;
+    position: relative;
+    width: 598px ;
+    height: 230px;
+    border-color: gray;
+    border-width: 0.5px;
+    border-top: 0;
+    border-style: solid;    
+}
+  
+.NomePerfilPostagemStyle {
+    position: absolute;
+    margin-top: 69px;
+    margin-left: 110px;
+}
+  
+.NomeDeUsuarioPostagemStyle {
+    color:  rgb(113, 118, 123);
+    margin-top: 69px;
+    margin-left: 150px;
+    position: absolute;
+  
+}
+  
+.MinutosPost{
+    color:  rgb(113, 118, 123);
+    position: absolute;
+    margin-top: 69px;
+    margin-left:276px
+  
+}
+
+.TextoPostagem{
+    position: absolute;
+    margin-left:124px;
+    margin-top: 100px;
+    
+}
+  
+.ImagemPost1 {
+    position: absolute;
+    border-radius: 40px;
+    width: 50px;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+  
+.Mais{
+    position: absolute;
+    color:  rgb(113, 118, 123);
+    margin-top: 40px;
+    margin-left: 550px;
+    cursor: pointer; 
+}
+  
+.ConversaPostagem{
+    position: absolute;
+    color:  rgb(113, 118, 123);
+    margin-top: 150px;
+    margin-left: 124px;
+    cursor: pointer;    
+}
+  
+.FaRetweet {
+    color:  rgb(113, 118, 123);
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 250px ;
+    cursor: pointer;
+}
+  
+.LikeIcon {
+    color:  rgb(113, 118, 123);
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 380px;
+    cursor: pointer;
+}
+  
+.ShareIcon {
+    color:  rgb(113, 118, 123);
+    margin-top: 150px;
+    margin-left: 500px;
+    cursor:pointer;
+}
+  
+  
+.ContainerPostagemdois{
+    color: white;
+    background-color: black;
+    margin-left: 297px;
+    display: flex;
+    position: relative;
+    width: 598px ;
+    height: 230px;
+    border-color: gray;
+    border-width: 0.5px;
+    border-top: 0;
+    border-style: solid;   
+}
+  
+.ImagemPerfilPost2{
+    position: absolute;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 65px;
+    margin-left: 53px;    
+}
+  
+.PostIMGFEED{    
+    background-color: black;
+    width: 598px;
+    height: 700px;
+    margin-left: 297px;
+    position: relative;
+    border-color: gray;
+    border-width: 0.5px;
+    border-top: 0;
+    border-style: solid;
+}
+  
+.ImgPerfilPost3 {
+    position: absolute;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 65px;
+    margin-left: 53px;  
+}
+
+.NomePerfilPost3{
+    position: absolute;
+    color: white;    
+    margin-top: 69px;
+    margin-left: 110px;
+}
+  
+.NomePost3{
+    color:  rgb(113, 118, 123);
+    margin-top: 69px;
+    margin-left: 170px;
+    position: absolute;  
+}
+
+.TempoPost3 {
+    color:  rgb(113, 118, 123);
+    position: absolute;
+    margin-top: 69px;
+    margin-left:300px
+}
+
+.TextoPost3{
+    position: absolute;
+    margin-left:110px;
+    margin-top: 100px;
+    color: white;  
+}
+  
+.ImgPostFeed3{
+    position: absolute;
+    width: 300px;
+    margin-top: 200px;
+    margin-left: 180px;
+}
+  
+.ChatPost3 {
+    position: absolute;
+    color:  rgb(113, 118, 123);
+    margin-top:630px;
+    margin-left: 124px;
+    cursor: pointer;    
+}
+  
+.RepostPost3 {
+    position: absolute;
+    color:  rgb(113, 118, 123);
+    margin-top:630px;
+    margin-left: 250px;
+    cursor: pointer;
+}
+  
+.LikePost3 {  
+    position: absolute;
+    color:  rgb(113, 118, 123);
+    margin-top:630px;
+    margin-left: 380px;
+    cursor: pointer;
+}
+    
+.CompartilharPost3{
+    color:  rgb(113, 118, 123);
+    margin-top: 630px;
+    margin-left: 500px;
+    cursor:pointer;  
+}
+    
+.PontosPost3{
+    color: rgb(113, 118, 123);
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.NumeroLikesPost3{
+    position: absolute;
+    color: grey;
+    margin-left: 410px;
+    margin-top: 627px;
+}
+
+.NumeroLikes {
+    position: absolute;
+    color: grey;
+    margin-left: 410px;
+    margin-top: 148px;
+}
+
+.NumeroRetweet{
+    position: absolute;
+    color: grey;
+    margin-left: 280px ;
+    margin-top: 145px;
+}
+
+.NumeroRetweetPost3 {
+    position: absolute;
+    color: grey;
+    margin-left: 280px;
+    margin-top: 628px;
+}
+
+.NumeroComentarios{
+    position: absolute;
+    color: grey;
+    margin-left: 150px;
+    margin-top: 145px;
+}
+
+.NumeroComentariosPost3 {
+    position: absolute;
+    color: grey;
+    margin-left: 150px;
+    margin-top: 628px;
+}
+
+.Geral {
+    display: flex;
+    flex-direction: column;
+}
+
+.ContainerQuemSeguir{
+    margin-right: 500px;
+    position: absolute;
+    color: white;
+    background-color:rgb(22, 24, 28);
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+   
+    
+}
+
+.IMGHBO {
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+
+.HBONome {
+    position: absolute;
+    margin-left: 80px;
+}
+
+.SeguirHbo{
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 18px;
+    border-radius: 10px;
+    height: 30px;
+    cursor: pointer ;
+}
+
+.IMGACCENTURE{
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;  
+}
+
+.ACCENTURENome {
+  position: absolute;
+  margin-left: 80px;
+}
+
+.SeguirAccenture {
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 18px;
+    border-radius: 10px;
+    height: 30px;
+    cursor: pointer ;
+}
+
+.IMGSAN {
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10px;   
+}
+
+.SanNome {
+    position: absolute;
+    margin-left: 80px;   
+}
+
+.SeguirSan{
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 18px;
+    border-radius: 10px;
+    height: 30px;
+    cursor: pointer ;
+}
+
+.MostrarMais{
+    color: rgb(17, 17, 233);
+    margin-left: 20px;
+}
+
+.INFOS{
+    background-color:black;
+    color: grey;
+    position: absolute;
+    margin-top: 310px;
+    height: 150px;
+    width: 300px;
+    font-size: 13px;
+    display: flex;    
+}
+
+  .PPo {
+    margin-left: 10px;
+  }
+
+  

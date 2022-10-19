@@ -1,0 +1,112 @@
+.InputPesquisa{
+    position: relative;
+    margin-top: 50px;
+    width: 280px;
+    height: 42px;
+    background-color: #16181c;
+
+  }
+  .IconPesquisaB{
+    color: grey;
+    position: absolute;
+    margin-right: 30px;
+    margin-top: 59px;
+    font-size: 22px;
+}
+
+
+.ContainerTopicos{
+  width: 280px;
+  height: 600px;
+  background-color: #16181c;
+  position: relative;
+  margin-top: 2%;
+  border-radius: 3%;
+  cursor: pointer;
+  border-color: gray;
+  border-width: 1px;
+  border-style: solid;
+
+
+}
+.TituloTopico{
+  color: white;
+  margin-left: 15px;
+}
+.ContainerMensagens{
+  width: 311px;
+  position: fixed;
+  margin-left: 1195px;
+  margin-right: 1300px;
+  background-color: #16181c;
+  margin-top: 690px;
+  border-radius: 15px;
+  border-color: gray;
+  border-width: 1px;
+  border-style: solid;
+}
+.Mensagem1{
+  margin-left: 12px;
+  color: white; 
+}
+.IconsMessage1{
+  position: fixed;
+  color: white;
+  margin-top: 1px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  font-size: 25px;
+}
+.IconSeta{
+  color: white;
+  position: fixed;
+  margin-left: 85%;
+  margin-top: 832px;
+  font-size: 25px;
+}
+.Noticia1{
+  color: rgb(113, 118, 123);
+  margin-left: 5%;
+}
+.Noticia11{
+  color: white;
+  margin-left: 5%;
+}
+.ImgNoticia{
+  width: 40%;
+  border-radius: 15px;
+  border-color:rgb(0, 0, 0);
+  border-width: 1px;
+  border-style: solid;
+  margin-left: 5%;
+}
+
+.Noticia2{
+  color: rgb(106, 110, 114);
+  margin-left: 3%;
+}
+.Noticia22{
+  color:white;
+  margin-left: 5%;
+}
+.Noticia3{
+  color: rgb(106, 110, 114);
+  margin-left: 3%;
+}
+.Noticia33{
+  color: white;
+  margin-left: 3%;
+}
+.ImgGuerra{
+  width: 40%;
+  border-radius: 15px;
+  border-color:rgb(0, 0, 0);
+  border-width: 1px;
+  border-style: solid;
+  margin-left: 5%;
+}
+
+.ContainerPesquisaPrincipal{
+  margin-top: 350px;
+  position: absolute;
+}

@@ -1,0 +1,22 @@
+.Geral-home {
+    position: relative;
+    display: inline-block;
+    justify-content: center;
+    left: 200px;
+}
+
+.Header-home {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    z-index: 9;
+}
+
+.Feed-home {
+    left: 20px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 95px;
+}
+

@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Mulish', sans-serif ;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container-login{
+  width: 100%;
+  min-height: 100vh;
+
+  display:flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  padding: 15px;
+
+  background-color: rgba(17, 24, 31, 0.897);
+}
+
+.wrap-login{
+    width:500px;
+    background-color: #000;
+    border-radius: 10px;
+
+    overflow: hidden;
+     padding: 30px 20px 13px 20px ; 
+
+    box-shadow: 0 5px 10px 0px rgba(0,0,0,0.2);
+}
+
+.login-form{
+    max-width: 800px;
+}
+
+
+.login-form-title img{
+    width: 30px;
+    padding-bottom: 50px;
+    
+}
+
+.login-form-title{
+    display: block;
+    font-size: 30px;
+    color: azure;
+
+    line-height: 1.2;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold
+}
+
+.google-login-form-btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+
+}
+
+.google-form-btn{
+    font-size: 15px;
+    border:none;
+    border-radius:30px;
+    color: rgb(26, 26, 26);
+    width: 325px;
+    height: 30px;
+    margin-top: 40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.google-form-btn:hover {
+    cursor: pointer;
+}
+
+
+.apple-form-btn:hover {
+    cursor: pointer;
+}
+
+.apple-login-form-btn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.apple-form-btn{
+    font-size: 15px;
+    border:none;
+    border-radius:30px;
+    color: rgb(26, 26, 26);
+    font-weight: bold;
+    line-height: 1.2;
+    width: 325px;
+    height: 30px;
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ou{
+    color: rgba(255, 255, 255, 0.658);
+    text-align: center;
+    
+    
+}
+.input{
+    
+    width: 325px;
+    height: 45px;
+    text-align: center;
+    border-radius: 2px;
+    background-color: transparent;
+    font-size: 15px;
+}
+
+.wrap-input{
+    margin-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-login-form-btn{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 13px;
+}
+
+.login-form-btn{
+    font-size: 15px;
+    border:none;
+    border-radius:30px;
+    color: rgb(26, 26, 26);
+    font-weight: bold;
+    line-height: 1.2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 325px;
+    height: 30px;
+}
+
+.senha-form-btn{
+    font-size: 15px;
+    border:1px solid #fff;
+    border-radius:30px;
+    color: rgba(179, 178, 178, 0.877);
+    background-color: transparent;
+    font-weight: bold;
+    line-height: 1.2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 325px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.login-form-btn:hover {
+  cursor: pointer;
+}
+
+.senha-form-btn:hover {
+    cursor: pointer;
+}
+
+.texte-center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+
+.txt1{
+    font-size: 14px;
+    color:rgba(206, 197, 197, 0.87);
+    line-height:1.5;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+.txt2{
+    font-size: 14px;
+    color:rgba(31, 106, 177, 0.87);
+    line-height:1.5;
+    text-decoration: none;
+}
+
+.Login-link {
+    text-decoration: none;
+}
